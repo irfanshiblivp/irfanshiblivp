@@ -1,6 +1,7 @@
 <h1 align="center">  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">  
-  <span style="color:#32CD32;">Hey there!\n I am Irfan Shibli 🚀</span>  
+  <span style="color:#32CD32;">Hey there!
+    I am Irfan Shibli 🚀</span>  
 </h1>  
 
 <p align="center">  
