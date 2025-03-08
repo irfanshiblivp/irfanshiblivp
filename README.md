@@ -8,8 +8,8 @@
 </p>  
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=irfanshiblivp&label=Profile%20Views&color=32CD32&style=for-the-badge" alt="Profile Views" />  
-  <img src="https://img.shields.io/github/followers/irfanshiblivp?color=32CD32&label=Followers&style=for-the-badge" alt="GitHub Followers" />  
+  <img src="https://komarev.com/ghpvc/?username=irfanshiblivp&label=Profile%20Views&color=FF5733&style=for-the-badge" alt="Profile Views" />  
+  <img src="https://img.shields.io/github/followers/irfanshiblivp?color=FF5733&label=Followers&style=for-the-badge" alt="GitHub Followers" />  
 </p>  
 
 ---
@@ -29,21 +29,21 @@
 ## 🚀 <span style="color:#32CD32;">Tech Stack</span>  
 
 ### 💻 **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-32CD32?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-32CD32?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-32CD32?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)  
+![C](https://img.shields.io/badge/C-007FFF?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-FF4500?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 ### ⚙️ **Tools & OS**  
-![Linux](https://img.shields.io/badge/Linux-32CD32?style=for-the-badge&logo=linux&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-32CD32?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-32CD32?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-228B22?style=for-the-badge&logo=linux&logoColor=black)  
+![Bash](https://img.shields.io/badge/Bash-808080?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-DC143C?style=for-the-badge&logo=git&logoColor=white)  
 
 ### 🔐 **Cybersecurity**  
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-32CD32?style=for-the-badge&logo=kali-linux&logoColor=white)  
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-8B0000?style=for-the-badge&logo=kali-linux&logoColor=white)  
 
 ### 🌐 **Web Development**  
-![HTML](https://img.shields.io/badge/HTML-32CD32?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS (Learning)](https://img.shields.io/badge/CSS-32CD32?style=for-the-badge&logo=css3&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS (Learning)](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)  
 
 ---
 
@@ -74,11 +74,11 @@
 ## 🌐 <span style="color:#32CD32;">Let's Connect!</span>  
 
 <p align="center">  
-  <a href="https://www.linkedin.com/in/irfanshibli"><img src="https://img.shields.io/badge/LinkedIn-32CD32?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="mailto:vpirfanshibli@gmail.com"><img src="https://img.shields.io/badge/Email-32CD32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
-  <a href="https://twitter.com/irfanshiblivp"><img src="https://img.shields.io/badge/X-32CD32?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"></a>  
-  <a href="https://instagram.com/irfan.shibli"><img src="https://img.shields.io/badge/Instagram-32CD32?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>  
-  <a href="https://github.com/irfanshiblivp"><img src="https://img.shields.io/badge/GitHub-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
+  <a href="https://www.linkedin.com/in/irfanshibli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+  <a href="mailto:vpirfanshibli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
+  <a href="https://twitter.com/irfanshiblivp"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"></a>  
+  <a href="https://instagram.com/irfan.shibli"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>  
+  <a href="https://github.com/irfanshiblivp"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
 </p>  
 
 ---
