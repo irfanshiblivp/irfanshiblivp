@@ -71,7 +71,9 @@
 </p>
 
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" width="100%" />
+</p>
 
 
 ---
