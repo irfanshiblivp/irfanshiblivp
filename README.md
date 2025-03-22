@@ -20,6 +20,8 @@
 🎓 **Computer Science & Engineering (2nd Semester)**  
 📍 **College of Engineering Munnar**  
 💡 Passionate about **technology, coding, and solving real-world problems**  
+### 🐍 GitHub Contribution Snake Game
+![GitHub Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">  
