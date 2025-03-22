@@ -20,8 +20,6 @@
 🎓 **Computer Science & Engineering (2nd Semester)**  
 📍 **College of Engineering Munnar**  
 💡 Passionate about **technology, coding, and solving real-world problems**  
-### 🐍 GitHub Contribution Snake Game
-![GitHub Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">  
@@ -70,7 +68,11 @@
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=irfanshiblivp&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
-</p>  
+</p>
+
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
