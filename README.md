@@ -72,14 +72,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/irfanshiblivp/irfanshiblivp/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
-</p>
-
----
-
 ## 🌐 <span style="color:#32CD32;">Let's Connect!</span>  
 
 <p align="center">  
